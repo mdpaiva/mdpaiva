@@ -3,7 +3,7 @@
 
 
 \
-Graduando em '**Sistemas para Internet**'. Possuo interesse em desenvolvimento, infraestrutura e cybersec. \
+Graduando em '**Sistemas para Internet**' e '**Redes de Computadores**'. Possuo interesse em desenvolvimento, infraestrutura e cybersec. \
 \
 No momento estou aprofundando conhecimento em linguagens de script e sistemas unix-like. \
 \
